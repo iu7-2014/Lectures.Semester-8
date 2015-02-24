@@ -39,3 +39,9 @@ __Rapid Application Development__
 __Microsoft Solutions Framework__
 
 > "Клуб друзей, где все пишут отчеты друг другу"
+
+# Лекция 2
+## Scrum
+
+# Лекция 3
+## Управление рисками
